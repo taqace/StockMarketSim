@@ -1,0 +1,17 @@
+.outline{
+    outline: 5px dotted lime;
+    
+}
+
+.outlineBlack{
+    outline: 5px dotted black;
+    
+}
+
+.example::-webkit-scrollbar {
+    display: none;
+  }
+
+  .example{
+      overflow: scroll;
+  }
